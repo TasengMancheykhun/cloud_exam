@@ -1,2 +1,2 @@
-print("Name: Taseng Mancheykhun")
-print("PRN Number: 240840141021")
+print(" Name: Taseng Mancheykhun")
+print(" PRN Number: 240840141021")
